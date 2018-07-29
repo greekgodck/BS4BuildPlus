@@ -20,6 +20,9 @@ html, body {
 .nav-link {
   font-size: 1.1rem; !important
 }
+.carousel-inner {
+  margin-top: 4rem;
+}
 
 .carousel-inner img {
   width: 100%;
